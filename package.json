@@ -1,5 +1,5 @@
 {
-  "name": "@awslabs/nova-canvas-mcp-server",
+  "name": "@brightdataa/hide-mcp",
   "version": "1.0.0",
   "main": "index.js"
 }
